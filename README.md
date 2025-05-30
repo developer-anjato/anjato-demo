@@ -1,4 +1,4 @@
 # anjato-demo
 This is my first Git Repository.
 <br>
-Author - Hemal Hansda
+Author - Hemal (Anzato Gaming)
